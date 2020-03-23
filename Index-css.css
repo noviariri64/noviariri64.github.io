@@ -1,0 +1,6 @@
+body{background-color: pink}
+h1 {background-color: yellow ; color: purple; text-align: center; border: 5px green double }
+p {color : black ; background-color: salmon ; text-align: center}
+li {color : blue}
+img{height: 200px ; width: 300px; border-radius : 360%;border: 5px double #ddd; border-radius: 500% ;border-color: black}
+blockquote {background-color: green ; text-align: center}
